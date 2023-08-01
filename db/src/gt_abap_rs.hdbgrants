@@ -1,9 +1,9 @@
 {
-    "UPS_ABAP_REMOTE":{
+    "UPS_HANA":{
        "object_owner":{
           "global_object_privileges":[
              {
-                "name":"BTPTraining_RS",
+                "name":"RS_HANA_Adp",
                 "type":"REMOTE SOURCE",
                 "privileges":[
                    "CREATE VIRTUAL TABLE",
@@ -19,7 +19,7 @@
        "application_user":{
           "global_object_privileges":[
              {
-                "name":"BTPTraining_RS",
+                "name":"RS_HANA_Adp",
                 "type":"REMOTE SOURCE",
                 "privileges":[
                    "CREATE VIRTUAL TABLE",
