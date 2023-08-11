@@ -37,3 +37,4 @@ resources:
     service-name: HANA_SYN
   properties:
     the-service-name: ${service-name}
+    
